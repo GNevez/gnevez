@@ -4,7 +4,7 @@
 ```
 <>
 Hi, I'm a full-stack developer with experience in
-JavaScript, React, Angular, PHP, Laravel, and SQL.
+TypeScript, React, Angular, PHP, Laravel, and SQL.
 I'm currently pursuing a Bachelor's degree in
 Computer Science!
 </>
